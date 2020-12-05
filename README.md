@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Smit Mistry</h1>
 <h3 align="center">I am an intermediate competitive programmer, a novice flutter developer always keen to learn new things and apply those things to build something useful and helpful.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smit-mist" alt="smit-mist" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and improving my Competitive Programming skills**
 
