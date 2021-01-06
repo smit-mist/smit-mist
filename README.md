@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://dev.to/smitmist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="smitmist" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/smit-mistry-9b0a4419b/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" alt="https://www.linkedin.com/in/smit-mistry-9b0a4419b/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/smit37_mist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smit37_mist" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/smit37_mist" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/CodeChef#/media/File:Codechef(new)_logo.svg" alt="smit37_mist" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/smit_37_mist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="smit_37_mist" height="30" width="40" /></a>
 </p>
 
