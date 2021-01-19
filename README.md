@@ -8,14 +8,12 @@
 
 - 📫 How to reach me **smit3355mistry@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/smitmist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="smitmist" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/smit-mistry-9b0a4419b/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" alt="https://www.linkedin.com/in/smit-mistry-9b0a4419b/" height="50" width="50" /></a>
+<!-- <a href="https://dev.to/smitmist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="smitmist" height="50" width="50" /></a> -->
+<!-- <a href="https://www.linkedin.com/in/smit-mistry-9b0a4419b/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" alt="https://www.linkedin.com/in/smit-mistry-9b0a4419b/" height="50" width="50" /></a> -->
 <!-- <a href="https://www.codechef.com/users/smit37_mist" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/7/7b/Codechef%28new%29_logo.svg" alt="smit37_mist" height="50" width="150" /></a>
 <a href="https://codeforces.com/profile/smit_37_mist" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/320px-Codeforces_logo.svg.png" alt="smit_37_mist" height="50" width="180" /></a>
 </p> -->
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -23,7 +21,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>
-
+ -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smit-mist&show_icons=true&locale=en" alt="smit-mist" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smit-mist&" alt="smit-mist" /></p>
