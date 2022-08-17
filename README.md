@@ -12,4 +12,4 @@
 ![](https://en.wikipedia.org/wiki/Levitsky_versus_Marshall#/media/File:Levitsky_vs_Marshall,_1912.gif)
 
 
-<img src="https://en.wikipedia.org/wiki/Levitsky_versus_Marshall#/media/File:Levitsky_vs_Marshall,_1912.gif" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Levitsky_vs_Marshall%2C_1912.gif" />
