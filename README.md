@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit-mist&label=Profile%20views&color=0e75b6&style=flat" alt="smit-mist" /> </p>
 
-<p align="right">Sample
+<p align="right">Sample<br/>
 <img alt="Why Qg3?" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Levitsky_vs_Marshall%2C_1912.gif" height=200/>
 
 </p>
