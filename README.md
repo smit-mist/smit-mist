@@ -34,7 +34,7 @@
   <img src="https://profile-counter.glitch.me/smit-mist/count.svg" />
 </p>
 
-<img align="right" src="https://drive.google.com/file/d/1pwhvrrgMegPfcs10f3-6JLvRPPQoGDb1/view?usp=sharing"/>
+<img align="right" src="https://i.gifer.com/Ry6p.gif"/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smit-mist&" alt="smit-mist" /></p>
 
 
