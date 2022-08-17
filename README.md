@@ -13,7 +13,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit-mist&label=Profile%20views&color=0e75b6&style=flat" alt="smit-mist" /> </p>
 
-<img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Levitsky_vs_Marshall%2C_1912.gif" height=150/>
+<img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Levitsky_vs_Marshall%2C_1912.gif" height=200/>
+<p align="right">Move 23 .. Qg3</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
