@@ -8,4 +8,4 @@
 
 - 📫 How to reach me **smit3355mistry@gmail.com**
 
-https://lichess.org/study/embed/w5Fi933x/SK2ZsCYo#46
+![](https://lichess.org/study/embed/w5Fi933x/SK2ZsCYo#46)
