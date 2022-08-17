@@ -33,8 +33,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/smit-mist/count.svg" />
 </p>
-
-<img align="right" src="https://i.gifer.com/Ry6p.gif"/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smit-mist&" alt="smit-mist" /></p>
+<p>
+<img align="right" src="https://i.gifer.com/Ry6p.gif" alt="Not Displayed"/></p><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smit-mist&" alt="smit-mist" /></p>
 
 
