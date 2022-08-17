@@ -10,3 +10,6 @@
 
 ![](https://lichess.org/study/embed/w5Fi933x/SK2ZsCYo#46)
 ![](https://en.wikipedia.org/wiki/Levitsky_versus_Marshall#/media/File:Levitsky_vs_Marshall,_1912.gif)
+
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
