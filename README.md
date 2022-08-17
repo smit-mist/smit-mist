@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit-mist&label=Profile%20views&color=0e75b6&style=flat" alt="smit-mist" /> </p>
