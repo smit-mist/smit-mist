@@ -34,7 +34,7 @@
   <img src="https://profile-counter.glitch.me/smit-mist/count.svg" />
 </p>
 <img align="right" alt="GIF" src=https://media.giphy.com/media/OOrloZjiqpyHJg8AmC/giphy.gif" />
-
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Ry6p" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smit-mist&" alt="smit-mist" /></p>
 
 
