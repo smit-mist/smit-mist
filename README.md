@@ -13,10 +13,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit-mist&label=Profile%20views&color=0e75b6&style=flat" alt="smit-mist" /> </p>
 
-<p align="right">Sample<br/>
 <img alt="Why Qg3?" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Levitsky_vs_Marshall%2C_1912.gif" height=200/>
 
-</p>
 <h3 align="left">Connect with me: (Qg3 ->)</h3>
 <p align="left">
 <a href="https://linkedin.com/in/smit-mistry-9b0a4419b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smit-mistry-9b0a4419b" height="30" width="40" /></a>
