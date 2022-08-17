@@ -5,13 +5,15 @@
 
 - ⚡ I have a keen interest in Data Structures and Algorithms.
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- ♟ I like to spend my time playing and learning Chess.
 
 ---
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit-mist&label=Profile%20views&color=0e75b6&style=flat" alt="smit-mist" /> </p>
+
+<img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Levitsky_vs_Marshall%2C_1912.gif" height=150/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +34,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smit-mist&" alt="smit-mist" /></p>
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Levitsky_vs_Marshall%2C_1912.gif" height=100/>
