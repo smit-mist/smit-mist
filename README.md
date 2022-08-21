@@ -35,8 +35,8 @@
 </p>
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/qg3?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/qg3/cf-stats/main/output/light_card.svg" />
+<img height="273em" src="https://leetcard.jacoblin.cool/Qg3?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/Qg3/cf-stats/main/output/light_card.svg" />
 </p>
 <!-- <img align="right" height=200 alt="GIF" src="https://media.giphy.com/media/xThuWbe1xJ4jv5Cszm/giphy.gif" /> -->
 
