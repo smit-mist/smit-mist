@@ -41,6 +41,7 @@
 <!-- <img align="right" height=200 alt="GIF" src="https://media.giphy.com/media/xThuWbe1xJ4jv5Cszm/giphy.gif" /> -->
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smit-mist&theme=radical" alt="smit-mist" /></p>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=smit-mist&theme=react-dark&hide_border=true&area=true)
 
 
 
