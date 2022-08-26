@@ -40,6 +40,7 @@
 </p>
 <!-- <img align="right" height=200 alt="GIF" src="https://media.giphy.com/media/xThuWbe1xJ4jv5Cszm/giphy.gif" /> -->
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smit-mist&" alt="smit-mist" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smit-mist&theme=radical" alt="smit-mist" /></p>
+
 
 
